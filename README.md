@@ -2,8 +2,6 @@
 
 ## Problem Solving Progress
 
-| Platform | Problem | Difficulty | Languages | Notes |
-|---------|--------|-----------|----------|-------|
 | Platform | Problem | Difficulty | Languages | Notes | Visual |
 |---------|--------|-----------|----------|-------|--------|
 | LeetCode | [1816. Truncate Sentence](https://github.com/Ilyas-00/Problem-Solving-Cracking-The-Code/tree/main/LeetCode/1816-Truncate%20Sentence) | Easy | Python, Rust | String, Split | [<img src="LeetCode/1816-Truncate%20Sentence/image.png" width="60"/>](LeetCode/1816-Truncate%20Sentence/image.png) |
