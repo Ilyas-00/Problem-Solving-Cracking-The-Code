@@ -4,6 +4,7 @@
 
 | Platform | Problem | Difficulty | Languages | Notes | Visual |
 |---------|--------|-----------|----------|-------|--------|
+| LeetCode | [26. Remove Duplicates from Sorted Array](https://github.com/Ilyas-00/Problem-Solving-Cracking-The-Code/tree/main/LeetCode/26-Remove%20Duplicates%20from%20Sorted%20Array) | Easy | Python, Java, Rust | Two Pointers, In-place | [<img src="LeetCode/26-Remove%20Duplicates%20from%20Sorted%20Array/image.png" width="250"/>](LeetCode/26-Remove%20Duplicates%20from%20Sorted%20Array/image.png) |
 | LeetCode | [349. Intersection of Two Arrays](https://github.com/Ilyas-00/Problem-Solving-Cracking-The-Code/tree/main/LeetCode/349-Intersection%20of%20Two%20Arrays) | Easy | Python, Rust | Set, Intersection | [<img src="LeetCode/349-Intersection%20of%20Two%20Arrays/image.png" width="250"/>](LeetCode/349-Intersection%20of%20Two%20Arrays/image.png) |
 | LeetCode | [1816. Truncate Sentence](https://github.com/Ilyas-00/Problem-Solving-Cracking-The-Code/tree/main/LeetCode/1816-Truncate%20Sentence) | Easy | Python, Rust | String, Split | [<img src="LeetCode/1816-Truncate%20Sentence/image.png" width="250"/>](LeetCode/1816-Truncate%20Sentence/image.png) |
 | LeetCode | [217. Contains Duplicate](https://github.com/Ilyas-00/Problem-Solving-Cracking-The-Code/tree/main/LeetCode/217-Contains%20Duplicate) | Easy | Java, Python, Rust | HashSet |
