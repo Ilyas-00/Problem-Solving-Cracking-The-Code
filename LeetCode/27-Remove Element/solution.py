@@ -8,7 +8,7 @@ class Solution:
 
             nums[i_pointer2] = nums[i_pointer1]
 
-            i_pointer2 += 1 #on incremente de 1 la position
+            i_pointer2 += 1 # on incremente de 1 la position
     
       return i_pointer2
     
