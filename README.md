@@ -4,6 +4,7 @@
 
 | Platform | Problem | Difficulty | Languages | Notes | Visual |
 |---------|--------|-----------|----------|-------|--------|
+| LeetCode | [628. Maximum Product of Three Numbers](LeetCode/628-Maximum%20Product%20of%20Three%20Numbers) | Medium | Python, Java | Array, Sorting, Math | [<img src="LeetCode/628-Maximum Product of Three Numbers/image.png" width="350"/>](LeetCode/628-Maximum%20Product%20of%20Three%20Numbers/image.png) |
 | LeetCode | [500. Keyboard Row](https://github.com/Ilyas-00/Problem-Solving-Cracking-The-Code/tree/main/LeetCode/500-Keyboard%20Row) | Easy | Python, Rust | Set, String Manipulation, HashSet | [<img src="LeetCode/500-Keyboard%20Row/image.png" width="250"/>](LeetCode/500-Keyboard%20Row/image.png) |
 | LeetCode | [26. Remove Duplicates from Sorted Array](https://github.com/Ilyas-00/Problem-Solving-Cracking-The-Code/tree/main/LeetCode/26-Remove%20Duplicates%20from%20Sorted%20Array) | Easy | Python, Java, Rust | Two Pointers, In-place | [<img src="LeetCode/26-Remove%20Duplicates%20from%20Sorted%20Array/image.png" width="250"/>](LeetCode/26-Remove%20Duplicates%20from%20Sorted%20Array/image.png) |
 | LeetCode | [349. Intersection of Two Arrays](https://github.com/Ilyas-00/Problem-Solving-Cracking-The-Code/tree/main/LeetCode/349-Intersection%20of%20Two%20Arrays) | Easy | Python, Rust | Set, Intersection | [<img src="LeetCode/349-Intersection%20of%20Two%20Arrays/image.png" width="250"/>](LeetCode/349-Intersection%20of%20Two%20Arrays/image.png) |
