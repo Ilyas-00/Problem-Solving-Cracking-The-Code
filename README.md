@@ -4,6 +4,7 @@
 
 | Platform | Problem | Difficulty | Languages | Notes | Visual |
 |---------|--------|-----------|----------|-------|--------|
+| LeetCode | [2108. Find First Palindromic String in the Array](LeetCode/2108-First%20Palindromic%20String%20in%20the%20Array) | Easy | Python, Rust | String, Reverse & Compare | <img src="LeetCode/2108-Find%20First%20Palindromic%20String%20in%20the%20Array/image.png" width="250"/> |
 | LeetCode | [347. Top K Frequent Elements](LeetCode/347-Top%20K%20Frequent%20Elements) | Medium | Python | HashMap, Bucket Sort, Heap | [<img src="LeetCode/347-Top%20K%20Frequent%20Elements/image.png" width="300"/>](LeetCode/347-Top%20K%20Frequent%20Elements/image.png) |
 | LeetCode | [414. Third Maximum Number](LeetCode/414-Third%20Maximum%20Number) | Easy | Python | Array, Set, Sorting | [<img src="LeetCode/414-Third Maximum Number/image.png" width="250"/>](LeetCode/414-Third%20Maximum%20Number/image.png) |
 | LeetCode | [628. Maximum Product of Three Numbers](LeetCode/628-Maximum%20Product%20of%20Three%20Numbers) | Easy | Python, Java | Array, Sorting, Math | [<img src="LeetCode/628-Maximum Product of Three Numbers/image.png" width="350"/>](LeetCode/628-Maximum%20Product%20of%20Three%20Numbers/image.png) |
