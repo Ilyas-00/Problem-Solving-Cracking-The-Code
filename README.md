@@ -4,6 +4,7 @@
 
 | Platform | Problem | Difficulty | Languages | Notes | Visual |
 |---------|--------|-----------|----------|-------|--------|
+| LeetCode | [977. Squares of a Sorted Array Solution 2](LeetCode/977-Squares%20of%20a%20Sorted%20Array%20Solution_2) | Easy | Python | Array, Two Pointers | [<img src="LeetCode/977-Squares%20of%20a%20Sorted%20Array%20Solution_2/image%20copy.png" width="250"/>](LLeetCode/977-Squares%20of%20a%20Sorted%20Array%20Solution_2/image%20copy.png) |
 | LeetCode | [977. Squares of a Sorted Array](LeetCode/977-Squares%20of%20a%20Sorted%20Array) | Easy | Python | Array, Sorting | [<img src="LeetCode/977-Squares%20of%20a%20Sorted%20Array/image.png" width="250"/>](LeetCode/977-Squares%20of%20a%20Sorted%20Array/image.png) |
 | LeetCode | [2108. Find First Palindromic String in the Array](LeetCode/2108-Find%20First%20Palindromic%20String%20in%20the%20Array) | Easy | Python, Rust | String, Reverse & Compare | <img src="LeetCode/2108-Find%20First%20Palindromic%20String%20in%20the%20Array/image.png" width="250"/> |
 | LeetCode | [347. Top K Frequent Elements](LeetCode/347-Top%20K%20Frequent%20Elements) | Medium | Python | HashMap, Bucket Sort, Heap | [<img src="LeetCode/347-Top%20K%20Frequent%20Elements/image.png" width="300"/>](LeetCode/347-Top%20K%20Frequent%20Elements/image.png) |
