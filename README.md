@@ -4,6 +4,7 @@
 
 | Platform | Problem | Difficulty | Languages | Notes | Visual |
 |---------|--------|-----------|----------|-------|--------|
+| LeetCode | [1002. Find Common Characters](LeetCode/1002-Find%20Common%20Characters) | Easy | Python | Array, Frequency Table, Min per Word | [<img src="LeetCode/1002-Find%20Common%20Characters/image.png" width="250"/>](LeetCode/1002-Find%20Common%20Characters/image.png) |
 | LeetCode | [977. Squares of a Sorted Array Solution 2](LeetCode/977-Squares%20of%20a%20Sorted%20Array%20Solution_2) | Easy | Python | Array, Two Pointers | [<img src="LeetCode/977-Squares%20of%20a%20Sorted%20Array%20Solution_2/image%20copy.png" width="250"/>](LeetCode/977-Squares%20of%20a%20Sorted%20Array%20Solution_2/image%20copy.png) |
 | LeetCode | [977. Squares of a Sorted Array](LeetCode/977-Squares%20of%20a%20Sorted%20Array) | Easy | Python | Array, Sorting | [<img src="LeetCode/977-Squares%20of%20a%20Sorted%20Array/image.png" width="250"/>](LeetCode/977-Squares%20of%20a%20Sorted%20Array/image.png) |
 | LeetCode | [2108. Find First Palindromic String in the Array](LeetCode/2108-Find%20First%20Palindromic%20String%20in%20the%20Array) | Easy | Python, Rust | String, Reverse & Compare | <img src="LeetCode/2108-Find%20First%20Palindromic%20String%20in%20the%20Array/image.png" width="250"/> |
@@ -21,3 +22,4 @@
 | LeetCode | [3512. Minimum Operations to Make Array Sum Divisible by K](https://github.com/Ilyas-00/Problem-Solving-Cracking-The-Code/tree/main/LeetCode/3512-Minimum%20Operations%20to%20Make%20Array%20Sum%20Divisible%20by%20K) | Easy | Python, Java, Rust | Math, Modulo |
 | LeetCode | [268. Missing Number](https://github.com/Ilyas-00/Problem-Solving-Cracking-The-Code/tree/main/LeetCode/268-Missing%20Number) | Easy | Python | Array, Comparison |
 |  | [  ]() |  |  |  |
+            
