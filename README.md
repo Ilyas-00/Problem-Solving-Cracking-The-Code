@@ -4,10 +4,7 @@
 
 | Platform | Problem | Difficulty | Languages | Notes | Visual |
 |---------|--------|-----------|----------|-------|--------|
-<<<<<<< HEAD
 | LeetCode | [1002. Find Common Characters](LeetCode/1002-Find%20Common%20Characters) | Easy | Python | Array, Frequency Table, Min per Word | [<img src="LeetCode/1002-Find%20Common%20Characters/image.png" width="250"/>](LeetCode/1002-Find%20Common%20Characters/image.png) |
-=======
->>>>>>> origin/main
 | LeetCode | [977. Squares of a Sorted Array Solution 2](LeetCode/977-Squares%20of%20a%20Sorted%20Array%20Solution_2) | Easy | Python | Array, Two Pointers | [<img src="LeetCode/977-Squares%20of%20a%20Sorted%20Array%20Solution_2/image%20copy.png" width="250"/>](LeetCode/977-Squares%20of%20a%20Sorted%20Array%20Solution_2/image%20copy.png) |
 | LeetCode | [977. Squares of a Sorted Array](LeetCode/977-Squares%20of%20a%20Sorted%20Array) | Easy | Python | Array, Sorting | [<img src="LeetCode/977-Squares%20of%20a%20Sorted%20Array/image.png" width="250"/>](LeetCode/977-Squares%20of%20a%20Sorted%20Array/image.png) |
 | LeetCode | [2108. Find First Palindromic String in the Array](LeetCode/2108-Find%20First%20Palindromic%20String%20in%20the%20Array) | Easy | Python, Rust | String, Reverse & Compare | <img src="LeetCode/2108-Find%20First%20Palindromic%20String%20in%20the%20Array/image.png" width="250"/> |
