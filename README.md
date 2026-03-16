@@ -4,7 +4,7 @@
 
 | Platform | Problem | Difficulty | Languages | Notes | Visual |
 |---------|--------|-----------|----------|-------|--------|
-| LeetCode | [160. Design Parking System](LeetCode/160-Design%20Parking%20System) | Easy | Python | Class, Simulation, O(1) time per operation, O(1) space | [<img src="LeetCode/160-%20Design%20Parking%20System/logic.png" width="250"/>](LeetCode/160-%20Design%20Parking%20System/logic.png) |
+| LeetCode | [160. Design Parking System](LeetCode/160-%20Design%20Parking%20System) | Easy | Python | Class, Simulation, O(1) time per operation, O(1) space | [<img src="LeetCode/160-%20Design%20Parking%20System/logic.png" width="250"/>](LeetCode/160-%20Design%20Parking%20System/logic.png) |
 | LeetCode | [283. Move Zeroes](LeetCode/283-Move%20Zeroes) | Easy | Python | Array, Two Pointers, In-place, O(n) time, O(1) space | [<img src="LeetCode/283-Move%20Zeroes/image.png" width="250"/>](LeetCode/283-Move%20Zeroes/image.png) |
 | LeetCode | [1002. Find Common Characters](LeetCode/1002-Find%20Common%20Characters) | Easy | Python | Array, Frequency Table, Min per Word | [<img src="LeetCode/1002-Find%20Common%20Characters/image.png" width="250"/>](LeetCode/1002-Find%20Common%20Characters/image.png) |
 | LeetCode | [977. Squares of a Sorted Array Solution 2](LeetCode/977-Squares%20of%20a%20Sorted%20Array%20Solution_2) | Easy | Python | Array, Two Pointers | [<img src="LeetCode/977-Squares%20of%20a%20Sorted%20Array%20Solution_2/image.png" width="250"/>](LeetCode/977-Squares%20of%20a%20Sorted%20Array%20Solution_2/image.png) |
