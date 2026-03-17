@@ -4,6 +4,7 @@
 
 | Platform | Problem | Difficulty | Languages | Notes | Visual |
 |---------|--------|-----------|----------|-------|--------|
+| LeetCode | [1656. Design an Ordered Stream](LeetCode/1656-Design%20an%20Ordered%20Stream) | Easy | Python, Rust | Class, Simulation, Maintain Ordered Chunks, Amortized O(n) time for all inserts, O(n) space | [<img src="LeetCode/1656-Design%20an%20Ordered%20Stream/logic.png" width="250"/>](LeetCode/1656-Design%20an%20Ordered%20Stream/logic.png) |
 | LeetCode | [160. Design Parking System](LeetCode/160-%20Design%20Parking%20System) | Easy | Python, Rust | Class, Simulation, O(1) time per operation, O(1) space | [<img src="LeetCode/160-%20Design%20Parking%20System/logic.png" width="250"/>](LeetCode/160-%20Design%20Parking%20System/logic.png) |
 | LeetCode | [283. Move Zeroes](LeetCode/283-Move%20Zeroes) | Easy | Python | Array, Two Pointers, In-place, O(n) time, O(1) space | [<img src="LeetCode/283-Move%20Zeroes/image.png" width="250"/>](LeetCode/283-Move%20Zeroes/image.png) |
 | LeetCode | [1002. Find Common Characters](LeetCode/1002-Find%20Common%20Characters) | Easy | Python | Array, Frequency Table, Min per Word | [<img src="LeetCode/1002-Find%20Common%20Characters/image.png" width="250"/>](LeetCode/1002-Find%20Common%20Characters/image.png) |
